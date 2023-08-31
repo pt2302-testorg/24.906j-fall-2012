@@ -1,0 +1,47 @@
+{
+  "term": "Fall",
+  "year": "2012",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Language"
+    ],
+    [
+      "Humanities",
+      "Linguistics",
+      "Semantics"
+    ]
+  ],
+  "legacy_uid": "dc7b977d-84aa-b529-f6a6-d76bee402b13",
+  "instructors": {
+    "content": [
+      "f4fd6714-7aa4-92fa-684d-16f86005f342"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "78dac14f-804c-a77c-f626-5072911f7095",
+    "website": "24-906j-linguistic-studies-of-bilingualism-fall-2012"
+  },
+  "course_title": "Linguistic Studies of Bilingualism",
+  "course_description": "This course studies the development of bilingualism in human history (from _Australopithecus_ to present day). It focuses on linguistic aspects of bilingualism; models of bilingualism and language acquisition; competence versus performance; effects of bilingualism on other domains of human cognition; brain imaging studies; early versus late bilingualism; opportunities to observe and conduct original research; and implications for educational policies among others. The course is taught in English.\n",
+  "department_numbers": [
+    "24",
+    "21G"
+  ],
+  "extra_course_numbers": "21G.024J",
+  "primary_course_number": "24.906J",
+  "course_image_thumbnail": {
+    "content": "9ecf02b5-d902-58d7-9b99-4c5b6208373f",
+    "website": "24-906j-linguistic-studies-of-bilingualism-fall-2012"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "d604aa29-c4da-4d5e-8489-62bbec38736d",
+  "site_short_id": "24.906j-fall-2012",
+  "title": "Course Metadata"
+}
